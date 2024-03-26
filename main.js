@@ -24,9 +24,9 @@
 
 // Asynchronous Program
 
-let str = "Good Morning";
-console.log(str);
-setTimeout(() => {
-    alert("This is an alert window!");
-}, 5000);
-console.log("Have a good day");
+// let str = "Good Morning";
+// console.log(str);
+// setTimeout(() => {
+//     alert("This is an alert window!");
+// }, 5000);
+// console.log("Have a good day");
